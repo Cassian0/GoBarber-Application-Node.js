@@ -1,0 +1,14 @@
+node_modules
+
+.env
+
+.editorconfig
+.eslintrc.js
+.prettierrc
+
+.sequelizerc
+
+nodemon.json
+
+yarn.lock
+yarn-error.log
